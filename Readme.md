@@ -73,11 +73,11 @@ When the program starts, the following menu is displayed:
 ================================= STUDENT INFORMATION SYSTEM Add Student Display All Students Search Student by ID Update Student Record Delete Student Record Save & Exit
 The user can select an option by entering the corresponding number.
 
-🧪 Example ➕ Adding a Student --- Add New Record --- Enter ID: 25BAI10377 Enter Full Name: Tanmay VM Enter Department: Computer Science Enter GPA (0.0 - 4.0): 3.7
+🧪 Example ➕ Adding a Student --- Add New Record --- Enter ID: 25BAI10424 Enter Full Name: Yuwan Mishra Enter Department: Computer Science Enter GPA (0.0 - 4.0): 3.7
 
 Student record added successfully. 📋 Displaying Students --- Registered Students ---
 
-+------------+----------------------+-----------------+-------+ | ID | Name | Department | GPA | +------------+----------------------+-----------------+-------+ | 25BAI10377 | Tanmay VM | Computer Science| 3.70 | +------------+----------------------+-----------------+-------+ 💾 Data Storage
++------------+----------------------+-----------------+-------+ | ID | Name | Department | GPA | +------------+----------------------+-----------------+-------+ | 25BAI10424 | Yuwan Mishra | Computer Science| 3.70 | +------------+----------------------+-----------------+-------+ 💾 Data Storage
 
 The application uses Java Object Serialization to store student records.
 
